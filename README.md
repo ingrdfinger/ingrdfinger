@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 https://www.webfx.com/tools/emoji-cheat-sheet/ (emojis)
 https://github.com/anuraghazra/github-readme-stats (estatísticas)
 https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#badges (linguagens)
--->
+
 ### 💻 Linguagens
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 💌 Contato
+-->
 
