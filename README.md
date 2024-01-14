@@ -17,6 +17,9 @@ https://www.webfx.com/tools/emoji-cheat-sheet/ (emojis)
 https://github.com/anuraghazra/github-readme-stats (estatísticas)
 https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#badges (linguagens)
 
+Meu nome é Ingrid e atualmente estou cursando o 3° semestre de Engenharia da Computação na Universidade Católica Dom Bosco, no período noturno.
+No momento, estou aprendendo a linguagem Java, poré, possuo conhecimento básico de Javascrpit, HTML e Python.
+
 ### 💻 Linguagens
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
