@@ -1,4 +1,4 @@
-### Hi there 👋
+## Oii! Eu sou a Ingrid 🎀
 
 <!--
 **ingrdfinger/ingrdfinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +25,6 @@ No momento, estou aprendendo a linguagem Java, poré, possuo conhecimento básic
 
 ### 💌 Contato
 -->
+
+
 
