@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Ingrid 🎀
 
-Atualmente estou cursando o 3° semestre de Engenharia da Computação na Universidade Católica Dom Bosco, no período noturno.
-No momento, estou aprendendo a linguagem Java, porém possuo conhecimento básico de Javascrpit, HTML, CSS, C e C++.
+Atualmente estou cursando o 5° semestre de Engenharia da Computação na Universidade Católica Dom Bosco, no período noturno.
+No momento, estou aprendendo Linux, porém possuo conhecimento básico de Javascrpit, HTML, CSS, C, C++ e Java.
 
 <!--### 💌 Contato
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
